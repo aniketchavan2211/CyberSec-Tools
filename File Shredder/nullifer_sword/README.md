@@ -1,8 +1,7 @@
 # ⚔️ NULLIFER SWORD
 
-> A high-performance, secure file shredder written in Rust — designed for precision, speed, and reliability.
+A high-performance, secure file shredder written in Rust — designed for precision, speed, and reliability.
 
----
 
 ## 🧠 Overview
 
@@ -16,7 +15,6 @@ It ensures data destruction through:
 - 📊 Real-time progress tracking
 - 🎨 Clean CLI with structured logging
 
----
 
 ## ⚙️ Features
 
@@ -29,7 +27,6 @@ It ensures data destruction through:
 - Progress bars (`indicatif`)
 - Structured logs (`env_logger + colored`)
 
----
 
 ### ⚔️ Modes
 
@@ -39,7 +36,6 @@ It ensures data destruction through:
 | `wipe`   | Overwrite only (no deletion) |
 | `verify` | Check if file still exists |
 
----
 
 ## 🏗️ Architecture
 
@@ -57,7 +53,6 @@ src/
     └── mod.rs
 ```
 
----
 
 ## 🚀 Installation
 
@@ -67,7 +62,6 @@ cd nullifer_sword
 cargo build --release
 ```
 
----
 
 ## 🧪 Usage
 
@@ -75,7 +69,6 @@ cargo build --release
 ./target/release/nullifer_sword shred tests/secret.txt
 ```
 
----
 
 ## ⚙️ Options
 
@@ -85,7 +78,6 @@ cargo build --release
 | `-p, --passes` | Overwrite passes (default: 3) |
 | `--parallel` | Enable parallel processing |
 
----
 
 ## 📊 Example Output
 
@@ -97,7 +89,6 @@ cargo build --release
 [OK] File deleted: secret.txt
 ```
 
----
 
 ## 👤 Author
 
@@ -111,7 +102,6 @@ Th3 Cyb3r Kn!ght's
 
 https://github.com/aniketchavan2211
 
----
 
 ## 📜 License
 
