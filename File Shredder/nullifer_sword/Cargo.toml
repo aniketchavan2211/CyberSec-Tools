@@ -1,0 +1,28 @@
+[package]
+name = "nullifer_sword"
+version = "0.1.0"
+edition = "2024"
+authors = ["Th3 R0gu3 Kn!ght"]
+description = "Nullifer Sword ⚔️ - Secure File Shredder"
+license = "MIT"
+repository = "https://github.com/aniketchavan2211/"
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+strip = true
+panic = "abort"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+anyhow = "1.0"
+rand = "0.8"
+walkdir = "2.5"
+rayon = "1.10"
+zeroize = "1.7"
+aes-gcm = "0.10"
+log = "0.4"
+env_logger = "0.11"
+colored = "2.1"
+indicatif = "0.17"
