@@ -1,5 +1,7 @@
 # ⚔️ NULLIFER SWORD
 
+![Nullifer Sword Banner](assets/nullifer_sword_banner.png)
+
 A high-performance, secure file shredder written in Rust — designed for precision, speed, and reliability.
 
 
