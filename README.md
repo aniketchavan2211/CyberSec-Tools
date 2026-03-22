@@ -1,12 +1,10 @@
+***COMPLETED***
+
 ## Simple Port Scanner
-
-
 
 ### C Language :
 
 1. v1 : Normal TCP scanner with arguments accepts.
-
-
 
 ### Python Language : 
 
@@ -15,6 +13,16 @@
 2. v1.1 : Integrate with Threading.
 
 3. v1.2 : with arguments
+
+## ForgeCrypt - File Encryptor / Decryptor
+
+Github: [ForgeCrypt](https://github.com/aniketchavan2211/ForgeCrypt.git)
+
+## Nullifer Sword - File Shredder
+
+Github: [Nullifer Sword](https://github.com/aniketchavan2211/CyberSec-Tools/tree/master/File%20Shredder/nullifer_sword)
+
+***PENDING***
 
 ## Keylogger 
 
