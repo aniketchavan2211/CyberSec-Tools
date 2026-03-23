@@ -14,6 +14,10 @@
 
 3. v1.2 : with arguments
 
+## Rusty Nmap 
+
+Github: [Rusty Nmap](https://github.com/aniketchavan2211/Rusty-Nmap.git)
+
 ## ForgeCrypt - File Encryptor / Decryptor
 
 Github: [ForgeCrypt](https://github.com/aniketchavan2211/ForgeCrypt.git)
