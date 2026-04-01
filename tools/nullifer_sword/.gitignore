@@ -1,0 +1,103 @@
+# =========================
+# Rust / Cargo
+# =========================
+
+# Compiled output
+/target/
+
+# Cargo lockfile
+# Keep Cargo.lock for binaries, ignore for libraries
+# Uncomment the next line if this is a library crate:
+# Cargo.lock
+
+# Backup files
+**/*.rs.bk
+
+# =========================
+# Logs & Temp
+# =========================
+
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.pid
+
+# =========================
+# OS Generated Files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+
+# VS Code
+.vscode/
+
+# JetBrains (CLion, IntelliJ, RustRover)
+.idea/
+
+# Vim / Neovim
+*.sw?
+Session.vim
+
+# Emacs
+*~
+\#*\#
+
+# =========================
+# Environment / Secrets ⚠️
+# =========================
+
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.der
+
+# =========================
+# Coverage / Profiling
+# =========================
+
+*.prof
+*.cov
+coverage/
+
+# =========================
+# Binary Outputs / Artifacts
+# =========================
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+# =========================
+# Package Managers / Tools
+# =========================
+
+# cargo-watch
+.cargo/
+
+# tar/zip artifacts
+*.tar
+*.gz
+*.zip
+
+# =========================
+# Testing / Debugging
+# =========================
+
+*.out
+*.test
+
+# =========================
+# Misc
+# =========================
+
+.cache/
