@@ -22,7 +22,9 @@ A curated arsenal of cybersecurity tools for Pentesters, Engineers, and Research
 <img src="https://img.shields.io/badge/C-Low%20Level-lightgrey?style=for-the-badge&logo=c">
 
 </p>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Funding-Open%20for%20Support-brightgreen?style=for-the-badge">
+</p>
 
 
 # 🚀 Completed Tools
