@@ -5,7 +5,6 @@
 
 > 🛠️ A collection of cybersecurity tools built across multiple languages (Rust, C, Python)
 
----
 
 # 🚀 Completed Tools
 
@@ -19,7 +18,6 @@
 - `v1.1` → Threaded scanning  
 - `v1.2` → CLI-based scanning  
 
----
 
 ## 🦀 Rust Projects
 
@@ -28,21 +26,18 @@
 
 > Fast and lightweight port scanner written in Rust
 
----
 
 ### 🔐 ForgeCrypt
 [![Repo](https://img.shields.io/badge/GitHub-ForgeCrypt-blue?logo=github)](https://github.com/aniketchavan2211/ForgeCrypt)
 
 > File encryption and decryption tool
 
----
 
 ### 🗡️ Nullifer Sword
 [![Repo](https://img.shields.io/badge/GitHub-Nullifer--Sword-blue?logo=github)](https://github.com/aniketchavan2211/CyberSec-Tools/tree/master/tools/nullifer_sword)
 
 > Secure file shredder with multiple overwrite strategies
 
----
 
 # 🧠 Pending Tools (Roadmap)
 
@@ -66,7 +61,6 @@
 - 🪟 Windows Registry Monitor  
 - 💣 Ransomware Simulator  
 
----
 
 # 🧩 Project Structure
 
