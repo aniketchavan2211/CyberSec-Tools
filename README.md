@@ -123,14 +123,20 @@ CyberSec-Tools/
 
 # 💰 Support
 
-If you like this project, consider supporting:
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F70000&center=true&vCenter=true&width=500&lines=Support+CyberSec+Tools;Fuel+Open+Source+Security;Help+Build+More+Tools+⚔️">
+</p>
+
+<p align="center">
+
 <a href="https://ko-fi.com/">
   <img src="https://img.shields.io/badge/KoFi-Support-red?style=for-the-badge&logo=kofi">
 </a>
+
 <a href="https://buymeacoffee.com/">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee">
 </a>
+
 </p>
 
 # ⚠️ Disclaimer
