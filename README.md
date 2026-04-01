@@ -1,67 +1,93 @@
-***COMPLETED***
+# ⚔️ CyberSec Tools
 
-## Simple Port Scanner
+![Repo Size](https://img.shields.io/github/repo-size/aniketchavan2211/CyberSec-Tools)
+![Last Commit](https://img.shields.io/github/last-commit/aniketchavan2211/CyberSec-Tools)
+![Issues](https://img.shields.io/github/issues/aniketchavan2211/CyberSec-Tools)
+![License](https://img.shields.io/github/license/aniketchavan2211/CyberSec-Tools)
 
-### C Language :
+> 🛠️ A collection of cybersecurity tools built across multiple languages (Rust, C, Python)
 
-1. v1 : Normal TCP scanner with arguments accepts.
+---
 
-### Python Language : 
+# 🚀 Completed Tools
 
-1. v1 : Normal TCP Port Scanner.
+## 🔍 Port Scanner
 
-2. v1.1 : Integrate with Threading.
+### ⚙️ C
+- `v1` → Basic TCP scanner with CLI arguments
 
-3. v1.2 : with arguments
+### 🐍 Python
+- `v1` → Basic TCP scanner  
+- `v1.1` → Threaded scanning  
+- `v1.2` → CLI-based scanning  
 
-## Rusty Nmap 
+---
 
-Github: [Rusty Nmap](https://github.com/aniketchavan2211/Rusty-Nmap.git)
+## 🦀 Rust Projects
 
-## ForgeCrypt - File Encryptor / Decryptor
+### ⚡ Rusty Nmap
+[![Repo](https://img.shields.io/badge/GitHub-Rusty--Nmap-blue?logo=github)](https://github.com/aniketchavan2211/Rusty-Nmap)
 
-Github: [ForgeCrypt](https://github.com/aniketchavan2211/ForgeCrypt.git)
+> Fast and lightweight port scanner written in Rust
 
-## Nullifer Sword - File Shredder
+---
 
-Github: [Nullifer Sword](https://github.com/aniketchavan2211/CyberSec-Tools/tree/master/File%20Shredder/nullifer_sword)
+### 🔐 ForgeCrypt
+[![Repo](https://img.shields.io/badge/GitHub-ForgeCrypt-blue?logo=github)](https://github.com/aniketchavan2211/ForgeCrypt)
 
-***PENDING***
+> File encryption and decryption tool
 
-## Keylogger 
+---
 
-## Caesar Cipher
+### 🗡️ Nullifer Sword
+[![Repo](https://img.shields.io/badge/GitHub-Nullifer--Sword-blue?logo=github)](https://github.com/aniketchavan2211/CyberSec-Tools/tree/master/tools/nullifer_sword)
 
-## DNS Lookup
+> Secure file shredder with multiple overwrite strategies
 
-## Simple Vulnerability Scanner
+---
 
-## Metadata Scrubber 
+# 🧠 Pending Tools (Roadmap)
 
-## Network Traffic Analyser 
+- ⌨️ Keylogger  
+- 🔡 Caesar Cipher  
+- 🌐 DNS Lookup  
+- 🛡️ Simple Vulnerability Scanner  
+- 🧹 Metadata Scrubber  
+- 📡 Network Traffic Analyzer  
+- 🔓 Hash Cracker  
+- 🕵️ Steganography Toolkit  
+- 🔄 MAC Address Spoofer  
+- 📂 File Integrity Monitor  
+- 📰 Security News Scraper Dashboard  
+- 🎣 Phishing URL Detector  
+- 🔐 SSH Brute Force Detector  
+- 📶 WiFi Network Monitor  
+- 🔢 Base64 / Hex Encoder & Decoder  
+- 🔥 Firewall Log Parser & Reporter  
+- ⚠️ ARP Spoofing Detector  
+- 🪟 Windows Registry Monitor  
+- 💣 Ransomware Simulator  
 
-## Hash Crackers
+---
 
-## Steganography ToolKit
+# 🧩 Project Structure
 
-## MAC Address Spoofer
+```bash
+tools/
+  nullifer_sword/
+  port_scanner/
+```
 
-## File Integrity Monitor
+# 🤝 Contributing
 
-## Security News Scapper Dashboard 
+1. Pick an issue
+2. Create a branch
+3. Submit a Pull Request
 
-## Phishing URL Detector 
+⚠️ Disclaimer
 
-## SSH Brute Force Detector
+These tools are developed for ***educational and security research purposes only***.
 
-## Wifi Network Monitor
-
-## Base64 / Hex Encoder & Decoder
-
-## Firewall Log Parser & Reporter
-
-## ARP Spoofing Detector
-
-## Windows Registry Monitor
-
-## Ransomware Simulator
+![Rust](https://img.shields.io/badge/Made%20with-Rust-orange?logo=rust)
+![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+![C](https://img.shields.io/badge/Made%20with-C-lightgrey?logo=c)
