@@ -15,7 +15,7 @@
 - `v1` → Basic TCP scanner with CLI arguments
 
 ### 🐍 Python
-- `v1` → Basic TCP scanner  
+- `v1.0` → Basic TCP scanner  
 - `v1.1` → Threaded scanning  
 - `v1.2` → CLI-based scanning  
 
