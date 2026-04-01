@@ -1,0 +1,44 @@
+name: Security Issue
+description: Report or track a security concern
+title: "[Security] "
+labels: ["security"]
+body:
+
+  - type: dropdown
+    attributes:
+      label: Tool
+      options:
+        - Nullifer Sword
+        - ForgeCrypt
+        - Core
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Issue Description
+      description: Describe the vulnerability or concern
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Impact
+      description: What can go wrong?
+
+  - type: textarea
+    attributes:
+      label: Possible Exploit Scenario
+
+  - type: textarea
+    attributes:
+      label: Suggested Fix
+
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      placeholder: |
+        - Issue mitigated
+        - Verified safe
+    validations:
+      required: true

@@ -1,0 +1,30 @@
+name: Test Task
+description: Add or improve testing
+title: "[Test] "
+labels: ["test"]
+body:
+
+  - type: dropdown
+    attributes:
+      label: Tool
+      options:
+        - Nullifer Sword
+        - Port Scanner
+        - ForgeCrypt
+        - Core
+
+  - type: textarea
+    attributes:
+      label: What to Test
+
+  - type: textarea
+    attributes:
+      label: Test Strategy
+
+  - type: textarea
+    attributes:
+      label: Expected Result
+
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria

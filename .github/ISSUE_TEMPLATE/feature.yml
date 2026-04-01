@@ -1,0 +1,42 @@
+name: Feature Request
+description: Suggest or implement a new feature
+title: "[Feature] "
+labels: ["feature"]
+body:
+
+  - type: dropdown
+    attributes:
+      label: Tool
+      options:
+        - Nullifer Sword
+        - Port Scanner
+        - ForgeCrypt
+        - Core
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Feature Description
+      description: What feature should be added?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Use Case
+      description: Why is this feature needed?
+
+  - type: textarea
+    attributes:
+      label: Proposed Implementation
+      description: Optional technical idea
+
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      placeholder: |
+        - Feature works as expected
+        - CLI/API updated
+    validations:
+      required: true

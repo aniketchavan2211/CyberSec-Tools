@@ -1,17 +1,39 @@
 name: Bug Report
-description: Report a bug
+description: Report something broken
 title: "[Bug] "
 labels: ["bug"]
 body:
 
+  - type: dropdown
+    attributes:
+      label: Tool
+      options:
+        - Nullifer Sword
+        - Port Scanner
+        - ForgeCrypt
+        - Core
+    validations:
+      required: true
+
   - type: textarea
     attributes:
       label: Description
+      description: What went wrong?
+    validations:
+      required: true
 
   - type: textarea
     attributes:
       label: Steps to Reproduce
+      placeholder: |
+        1. Run command
+        2. Observe error
 
   - type: textarea
     attributes:
       label: Expected Behavior
+
+  - type: textarea
+    attributes:
+      label: Environment
+      placeholder: OS, tool version
