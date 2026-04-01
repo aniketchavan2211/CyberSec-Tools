@@ -91,20 +91,36 @@ cargo build --release
 [OK] File deleted: secret.txt
 ```
 
+---
 
-## 👤 Author
+<p align="center">
 
-Th3 R0gu3 Kn!ght
+## 👤 Author  
+<b>Th3 R0gu3 Kn!ght</b>
 
-## 🛡️ Team
+</p>
 
-Th3 Cyb3r Kn!ght's
+<p align="center">
 
-## 🌐 GitHub
+## 🛡️ Team  
+<b>Th3 Cyb3r Kn!ght's</b>
 
-https://github.com/aniketchavan2211
+</p>
 
+<p align="center">
 
-## 📜 License
+## 🌐 GitHub  
+<a href="https://github.com/aniketchavan2211">
+  <img src="https://img.shields.io/badge/Profile-Visit%20GitHub-black?style=for-the-badge&logo=github">
+</a>
 
-MIT License
+</p>
+
+<p align="center">
+
+## 📜 License  
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+
+</p>
+
+---
