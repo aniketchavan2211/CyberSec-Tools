@@ -1,9 +1,7 @@
 # ⚔️ CyberSec Tools
 
-![Repo Size](https://img.shields.io/github/repo-size/aniketchavan2211/CyberSec-Tools)
 ![Last Commit](https://img.shields.io/github/last-commit/aniketchavan2211/CyberSec-Tools)
 ![Issues](https://img.shields.io/github/issues/aniketchavan2211/CyberSec-Tools)
-![License](https://img.shields.io/github/license/aniketchavan2211/CyberSec-Tools)
 
 > 🛠️ A collection of cybersecurity tools built across multiple languages (Rust, C, Python)
 
