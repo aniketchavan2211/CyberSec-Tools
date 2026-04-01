@@ -1,0 +1,85 @@
+name: General Task
+description: Create a structured issue for development, bug, or security work
+title: "[Type] Short clear title"
+labels: []
+body:
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Issue Type
+      description: Select the type of work
+      options:
+        - Feature
+        - Bug
+        - Refactor
+        - Test
+        - Security
+        - Documentation
+        - Core
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Tool
+      description: Which tool is affected?
+      options:
+        - Nullifer Sword
+        - Port Scanner
+        - ForgeCrypt
+        - Core
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - Low
+        - Medium
+        - High
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Clearly describe the task/problem
+      placeholder: What needs to be done?
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: What parts of the codebase are affected?
+      placeholder: files, modules, components
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: When is this considered complete?
+      placeholder: |
+        - Condition 1
+        - Condition 2
+    validations:
+      required: true
+
+  - type: textarea
+    id: security
+    attributes:
+      label: Security Considerations
+      description: Any risks, vulnerabilities, or security checks?
+      placeholder: Optional but important for security tools
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Anything else?
